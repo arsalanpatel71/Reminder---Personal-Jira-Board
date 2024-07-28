@@ -225,7 +225,6 @@ const TaskManagerPage = () => {
           className="button mainBG ascend"
           style={{
             width: "8vw",
-            height: "5vh",
           }}
           onClick={() => {
             addCategory("Category " + (categories.length + 1));
@@ -245,7 +244,6 @@ const TaskManagerPage = () => {
           className="button mainBG ascend"
           style={{
             width: "8vw",
-            height: "5vh",
             backgroundColor: isDarkMode ? "white" : "black",
             color: isDarkMode ? "black" : "white",
           }}

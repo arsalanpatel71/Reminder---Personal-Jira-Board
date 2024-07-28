@@ -73,7 +73,7 @@ body,
 .button {
   color: white;
   border: none;
-  padding: 8px 0;
+  padding: 1em 1em;
   width: 100%;
   cursor: pointer;
   border-radius: 6px;
